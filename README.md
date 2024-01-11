@@ -6,7 +6,7 @@
 
 ## NoSQL_analysis_starter.ipynb:
 ##### NoSQL_analysis_starter.ipynb is another Jupyter Notebook that focuses on exploring and analyzing the data within the MongoDB database collection created in the setup phase.
-##### The notebook likely includes queries, aggregations, and visualizations to gain insights from the establishment data.
+##### The notebook includes queries, aggregations, and visualizations to gain insights from the establishment data.
 
 ## Resources:
 ##### establishments.json: This JSON file serves as the data source for creating the MongoDB database collection. It contains information about various establishments, potentially including details like name, type, location, and hygiene scores.
